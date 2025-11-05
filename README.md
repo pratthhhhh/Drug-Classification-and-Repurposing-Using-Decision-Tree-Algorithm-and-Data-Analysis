@@ -1,9 +1,5 @@
 # Drug Classification and Repurposing Using Decision Tree Algorithm and Data Analysis
 
-## Introduction
-
-This project implements a machine learning solution for drug classification and drug repurposing using Decision Tree algorithms. The system analyzes drug properties and characteristics to classify drugs into appropriate categories and identify potential alternative therapeutic uses for existing drugs.
-
 ## Features
 
 - **Drug Classification**: Classify drugs into different categories based on their chemical and biological properties
@@ -55,26 +51,3 @@ The application generates:
 - Decision tree models
 - Performance metrics and evaluation reports
 - Visualization plots
-
-## Project Structure
-
-```
-.
-├── druggist.py           # Main application script
-├── data/                 # Dataset directory
-├── models/               # Trained model files
-├── results/              # Output results and visualizations
-└── README.md             # This file
-```
-
-## License
-
-This project is open source and available under the MIT License. See the LICENSE file for more details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss any changes.
-
-## Contact
-
-For questions or suggestions about this project, please reach out to the project maintainer at GitHub: [pratthhhhh](https://github.com/pratthhhhh)
